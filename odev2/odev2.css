@@ -1,0 +1,72 @@
+img{
+    display: block;
+    margin-left: 820px;
+    margin-top: 200px;
+}
+.searchbkground{
+    position: relative;
+    width: 1000px;
+    height: 75px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 500px;
+}
+.header{
+    padding: 2px;
+}
+.textbox{
+    width: 30%;
+    height: 18%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    clear: both;
+}
+
+.bluebox{
+    width: 1000px;
+    height: 50px;
+    margin-left: 500px;
+    margin-top: 3px;
+}
+#firstbluebox{
+    display: inline-block;
+    width: 250px;
+    height: 110px;
+    background-color: rgb(82, 196, 184);;
+    text-align: center;
+    float: left;
+    margin-right: 4px;
+    border-radius: 2px;
+}
+#secondbluebox{
+    display: inline-block;
+    margin-top: 0px;
+    width: 250px;
+    height: 110px;
+    background-color: rgb(82, 196, 184);;
+    text-align: center;
+    margin-right: 4px;
+    float: left;
+    border-radius: 2px;
+}
+#thirdbluebox{
+    display: inline-block;
+    margin-top: 0%;
+    width: 492px;
+    height: 110px;
+    background-color: rgb(82, 196, 184);;
+    text-align: center;
+    float: left;
+    border-radius: 2px;
+}
+p.copyright{
+    text-align: center;
+    font-size: 12px;
+    float: left;
+    margin-left: 890px;
+}
+
+a:visited{
+    color: rgb(97, 66, 170);
+}
